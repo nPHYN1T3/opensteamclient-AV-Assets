@@ -7,13 +7,41 @@
    viewBox="0 0 507.99997 135.46667"
    version="1.1"
    id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="doc-header.svg"
+   inkscape:export-filename="orig-clean3.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#292929"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#1a1a1a"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.65186405"
+     inkscape:cx="717.17408"
+     inkscape:cy="213.23465"
+     inkscape:window-width="3256"
+     inkscape:window-height="1080"
+     inkscape:window-x="1864"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient9">
+       id="linearGradient9"
+       inkscape:collect="always">
       <stop
          style="stop-color:#cccccc;stop-opacity:1;"
          offset="0"
@@ -24,7 +52,8 @@
          id="stop10" />
     </linearGradient>
     <linearGradient
-       id="linearGradient1">
+       id="linearGradient1"
+       inkscape:collect="always">
       <stop
          style="stop-color:#ff0000;stop-opacity:1;"
          offset="0"
@@ -35,6 +64,7 @@
          id="stop2" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient1"
        id="linearGradient7"
        x1="-40.367641"
@@ -44,6 +74,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.8796,0,0,1,279.223,-5.2427174e-6)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient9"
        id="linearGradient10"
        x1="290.44449"
@@ -54,6 +85,8 @@
        gradientTransform="translate(13.758333)" />
   </defs>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="fill:url(#linearGradient7);stroke-width:6.35;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;paint-order:stroke markers fill"
@@ -63,7 +96,8 @@
        x="-0.4162578"
        y="-5.2356772e-06"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:label="header" />
     <g
        id="g5"
        transform="matrix(0.8796,0,0,1,137.84614,46.57157)"
@@ -79,21 +113,24 @@
       <path
          id="rect3-5-3"
          style="fill:#000000;fill-opacity:0.2;stroke-width:6.77066;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;paint-order:stroke markers fill"
-         d="m -126.59796,29.844173 c 1.96961,0 3.55534,1.585217 3.55534,3.554822 0,1.969605 -1.58573,3.555338 -3.55534,3.555338 h 64.536116 c -1.969605,0 -3.555339,-1.585733 -3.555339,-3.555338 0,-1.969605 1.585734,-3.554822 3.555339,-3.554822 z m 0,14.045137 c 1.96961,0 3.55534,1.585214 3.55534,3.554822 0,1.969608 -1.58573,3.555338 -3.55534,3.555338 h 64.536116 c -1.969605,0 -3.555339,-1.58573 -3.555339,-3.555338 0,-1.969608 1.585734,-3.554822 3.555339,-3.554822 z m 0,14.045138 c 1.96961,0 3.55534,1.58573 3.55534,3.555338 0,1.969598 -1.58573,3.554822 -3.55534,3.554822 h 64.536116 c -1.969605,0 -3.555339,-1.585224 -3.555339,-3.554822 0,-1.969608 1.585734,-3.555338 3.555339,-3.555338 z" />
+         d="m -126.59796,29.844173 c 1.96961,0 3.55534,1.585217 3.55534,3.554822 0,1.969605 -1.58573,3.555338 -3.55534,3.555338 h 64.536116 c -1.969605,0 -3.555339,-1.585733 -3.555339,-3.555338 0,-1.969605 1.585734,-3.554822 3.555339,-3.554822 z m 0,14.045137 c 1.96961,0 3.55534,1.585214 3.55534,3.554822 0,1.969608 -1.58573,3.555338 -3.55534,3.555338 h 64.536116 c -1.969605,0 -3.555339,-1.58573 -3.555339,-3.555338 0,-1.969608 1.585734,-3.554822 3.555339,-3.554822 z m 0,14.045138 c 1.96961,0 3.55534,1.58573 3.55534,3.555338 0,1.969598 -1.58573,3.554822 -3.55534,3.554822 h 64.536116 c -1.969605,0 -3.555339,-1.585224 -3.555339,-3.554822 0,-1.969608 1.585734,-3.555338 3.555339,-3.555338 z"
+         sodipodi:nodetypes="csccscccsccscccsccscc" />
       <path
          id="rect4"
          style="fill:#ffffff;stroke-width:6.77066;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;paint-order:stroke markers fill"
-         d="m -123.79399,9.3648029 c -2.59021,0 -4.67569,2.0854721 -4.67569,4.6756831 v 10.709941 c 0,2.590211 2.08548,4.675683 4.67569,4.675683 h 58.928183 c 2.590211,0 4.675683,-2.085472 4.675683,-4.675683 V 14.040486 c 0,-2.590211 -2.085472,-4.6756831 -4.675683,-4.6756831 h -4.341854 C -71.026806,11.257911 -73.526032,20.16466 -75.938,20.16466 h -36.78432 c -2.61023,0 -5.16008,-8.65081 -6.72982,-10.7998571 z" />
+         d="m -123.79399,9.3648029 c -2.59021,0 -4.67569,2.0854721 -4.67569,4.6756831 v 10.709941 c 0,2.590211 2.08548,4.675683 4.67569,4.675683 h 58.928183 c 2.590211,0 4.675683,-2.085472 4.675683,-4.675683 V 14.040486 c 0,-2.590211 -2.085472,-4.6756831 -4.675683,-4.6756831 h -4.341854 C -71.026806,11.257911 -73.526032,20.16466 -75.938,20.16466 h -36.78432 c -2.61023,0 -5.16008,-8.65081 -6.72982,-10.7998571 z"
+         sodipodi:nodetypes="sssssssscsscs" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:63.5px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient10);stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:63.5px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#linearGradient10);stroke:none;stroke-width:0.264583"
        x="129.93535"
        y="83.13208"
-       id="text7"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.5px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient10);stroke-width:0.264583"
+       id="text3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:63.5px;font-family:'TASA Orbiter Display';-inkscape-font-specification:'TASA Orbiter Display, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient10);stroke-width:0.264583"
          x="129.93535"
          y="83.13208"
-         id="tspan8">Open Steam</tspan></text>
+         id="tspan3">Open Steam</tspan></text>
   </g>
 </svg>
