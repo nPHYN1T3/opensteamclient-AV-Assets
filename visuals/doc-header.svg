@@ -29,8 +29,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.65186405"
-     inkscape:cx="717.17408"
-     inkscape:cy="213.23465"
+     inkscape:cx="668.08409"
+     inkscape:cy="444.87804"
      inkscape:window-width="3256"
      inkscape:window-height="1080"
      inkscape:window-x="1864"
@@ -76,13 +76,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9"
-       id="linearGradient10"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(24.341667)"
        x1="290.44449"
        y1="98.372078"
        x2="290.44449"
-       y2="37.094582"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(13.758333)" />
+       y2="37.094582" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -123,14 +123,25 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:63.5px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#linearGradient10);stroke:none;stroke-width:0.264583"
-       x="129.93535"
+       style="font-style:normal;font-weight:normal;font-size:63.5px;line-height:1.25;font-family:sans-serif;display:inline;fill:url(#linearGradient2);stroke:none;stroke-width:0.264583"
+       x="140.51869"
        y="83.13208"
        id="text3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:63.5px;font-family:'TASA Orbiter Display';-inkscape-font-specification:'TASA Orbiter Display, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient10);stroke-width:0.264583"
-         x="129.93535"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:63.5px;font-family:'TASA Orbiter Display';-inkscape-font-specification:'TASA Orbiter Display, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2);stroke-width:0.264583"
+         x="140.51869"
          y="83.13208"
          id="tspan3">Open Steam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="201.67476"
+       y="98.58374"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="201.67476"
+         y="98.58374">OpenSteamworks.Client + OpenSteamworks</tspan></text>
   </g>
 </svg>
