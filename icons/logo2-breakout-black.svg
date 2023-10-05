@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#7b0000;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0"
+       y1="67.73333"
+       x2="135.46666"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(24.792119,-92.525449)" />
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="display:inline;fill:url(#linearGradient2);stroke-width:6.35;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;paint-order:stroke markers fill"
+       id="circle4"
+       cx="92.525452"
+       cy="-24.79212"
+       r="67.73333"
+       transform="rotate(60)" />
+    <path
+       id="circle7"
+       style="display:inline;fill:#000000;stroke-width:6.35;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;paint-order:stroke markers fill"
+       d="M 111.89992,17.169966 A 21.555104,21.555104 0 0 0 90.3448,38.725081 21.555104,21.555104 0 0 0 93.463717,49.824124 L 74.979266,88.669609 a 14.819134,14.819134 0 0 0 -0.463914,-0.01162 14.819134,14.819134 0 0 0 -9.623589,3.559577 L 9.0041444,79.441336 C 6.1580957,78.790715 3.3056608,80.347781 2.5500499,83.16776 l -0.35869,1.338838 c -0.7556136,2.819987 0.9444323,5.568751 3.7264228,6.454093 L 60.556092,108.34873 a 14.819134,14.819134 0 0 0 13.95926,9.94797 14.819134,14.819134 0 0 0 14.819071,-14.81907 14.819134,14.819134 0 0 0 -2.227134,-7.806299 L 111.49879,60.251713 a 21.555104,21.555104 0 0 0 0.40113,0.02848 21.555104,21.555104 0 0 0 21.55512,-21.555116 21.555104,21.555104 0 0 0 -21.55512,-21.555114 z" />
+  </g>
+</svg>
